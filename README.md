@@ -1,17 +1,16 @@
-Table of Contents
+# Table of Contents
+<a name = ' What is Git'></a>
 
-1. What is Git?
+ ###  1. What is Git?
 
- What is Git?
+- Open Source Version Control System
 
-Open Source Version Control System
+- Tracks changes made to files.
 
-Tracks changes made to files.
+- Provides checkpoints for code versions.
 
-Provides checkpoints for code versions.
+- Toggle between different versions of code.
 
-Toggle between different versions of code.
+- Share and combine changes seamlessly.
 
-Share and combine changes seamlessly.
-
-Facilitates collaboration.
+- Facilitates collaboration.
